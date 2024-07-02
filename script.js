@@ -3,15 +3,15 @@
       answer: "le corps"
     },
     {
-      url: "images/doigt.webp",
+      url: "images/doigt.png",
       answer: "un doigt"
     },
     {
-      url: "images/main.jpg",
+      url: "images/main.png",
       answer: "la main"
     },
     {
-      url: "images/bras.jpg",
+      url: "images/bras.png",
       answer: "le bras"
     },
     {
@@ -19,83 +19,83 @@
       answer: "l'estomac"
     },
     {
-      url: "images/pied.jpg",
+      url: "images/pied.png",
       answer: "le pied"
     },
     {
-      url: "images/dos.jpg",
+      url: "images/dos.png",
       answer: "le dos"
     },
     {
-      url: "images/tete.jpg",
+      url: "images/tete.png",
       answer: "la tête"
     },
     {
-      url: "images/visage.webp",
+      url: "images/visage.png",
       answer: "le visage"
     },
     {
-      url: "images/cheveux.jpg",
+      url: "images/cheveux.png",
       answer: "les cheveux"
     },
     {
-      url: "images/jambe.webp",
+      url: "images/jambe.png",
       answer: "la jambe"
     },
     {
-      url: "images/oreille.jpg",
+      url: "images/oreille.png",
       answer: "une oreille"
     },
     {
-      url: "images/oeil.avif",
+      url: "images/oeil.png",
       answer: "un oeil"
     },
     {
-      url: "images/yeux.avif",
+      url: "images/yeux.png",
       answer: "les yeux"
     },
     {
-      url: "images/cheveux.jpg",
+      url: "images/cheveux.png",
       answer: "les cheveux"
     },
     {
-      url: "images/bouche.avif",
+      url: "images/bouche.png",
       answer: "la bouche"
     },
     {
-      url: "images/dents.jpg",
+      url: "images/dents.png",
       answer: "les dents"
     },
     {
-      url: "images/taille.webp",
+      url: "images/taille.png",
       answer: "la taille"
     },
     {
-      url: "images/petit.avif",
+      url: "images/petit.png",
       answer: "petit"
     },
     {
-      url: "images/grand.avif",
+      url: "images/grand.png",
       answer: "grand"
     },
     {
-      url: "images/beau.avif",
+      url: "images/beau.png",
       answer: "beau"
     },
     {
-      url: "images/gros.avif",
+      url: "images/gros.png",
       answer: "gros"
     },
     {
-      url: "images/maigre.avif",
+      url: "images/maigre.png",
       answer: "maigre"
     },
     {
-      url: "images/moche.avif",
+      url: "images/moche.png",
       answer: "moche"
     },
     {
-      url: "images/jeune.webp",
+      url: "images/jeune.png",
       answer: "jeune"
     },
     {
@@ -103,15 +103,15 @@
       answer: "doigt de pied"
     },
     {
-      url: "images/vieux.avif",
+      url: "images/vieux.png",
       answer: "vieux"
     },
     {
-      url: "images/peurond.avif",
+      url: "images/peurond.png",
       answer: "un peu rond"
     },
     {
-      url: "images/nez.jpg",
+      url: "images/nez.png",
       answer: "le nez"
     },
 ];
